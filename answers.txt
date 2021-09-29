@@ -1,0 +1,2 @@
+Q1: https://github.com/flyrobot27/syheung-CMPUT404-Lab4
+Q2: A default Django landing page
