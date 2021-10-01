@@ -8,3 +8,5 @@ Q6: The text "You're looking at question 38" is displayed.
     If we didn't put a number, a 404 error is displayed. 
     We can set the data type in path() to be str instead. e.g. <str:question_id>/results/
 Q7: It is for easier code maintenance. For example, if the path of the data is changed, we only need to change it in the code.
+Q8: generic views makes writing it a lot simplier and less verbose. 
+    However if there are a lot of complex logic behind the view, then generic view might not be up to the task
