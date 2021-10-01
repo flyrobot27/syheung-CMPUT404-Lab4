@@ -2,3 +2,4 @@ Q1: https://github.com/flyrobot27/syheung-CMPUT404-Lab4
 Q2: A default Django landing page
 Q3: when navigating to /, a 404 error is shown. When navigating to /polls, the "Hello world" index is shown.
 Q4: Migration is used for propagating changes to the schema into the database. In this case SQLite is used.
+Q5: We can see user and group management as well as the models we've added. We need to add our models in admin.py in order for it to appear
